@@ -1,0 +1,97 @@
+body{
+    font-family: Bradley Hand, cursive	;
+    background-color: rgb(255, 221, 0);
+    text-align: center;
+}
+#text{
+    background-color: transparent;
+    border: none;
+    border-bottom: 3px solid black;
+    outline: none;
+    font-family: Bradley Hand, cursive;
+    font-size: large;
+}
+h1{
+    font-size: 50px;
+}
+.nutton{
+    background-color: rgb(46, 116, 118);
+    border: none;
+    color: rgb(255, 221, 0);
+    border-radius: 10px;
+    height: 25px;
+    width: 50px;
+    cursor: pointer;
+    transition: all .3s;
+}
+img{
+    cursor: pointer;
+}
+h2{
+    cursor: pointer;
+}
+div{
+    margin-top: 10px;
+    font-size: 30px;
+    transition: all .3;
+}
+.now{ 
+    font-size: xx-large;
+}
+.button{
+    height: 25px;
+    width: 50px;
+    background-color: rgb(15, 188, 84);
+    margin-left: 30px;
+    border: none;
+    border-radius: 10px;
+    z-index: 100;
+    cursor: pointer;
+    transition: all .3s;
+}
+.active{
+    text-decoration: line-through;
+    color: rgba(0, 0, 0, 0.7);
+}
+.akk{
+    background-color: black;
+    color: rgb(15, 188, 84);
+}
+.ja{
+    width: 400px;
+    background-color: whitesmoke;
+    padding: 50px;
+    border-radius: 20px;
+    margin: 40px auto;
+}
+hr{
+    margin-top: 80px;
+}
+#time{
+    font-size: xx-large;
+}
+#green{
+    position: absolute;
+    width: 100px;
+    height: 25px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.greet{
+    position: absolute;
+    margin-left: 525px;
+}
+#clok{
+    background-color: transparent;
+    width: 100px;
+    height: 25px;
+    border: none;
+    cursor: pointer;
+}
+.meet{
+    position: absolute;
+    margin-left: 635px;
+    margin-bottom: 100px;
+    padding-bottom: 20px;
+}
